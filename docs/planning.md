@@ -27,7 +27,15 @@ This means that based on the accurate data users will be comfortable with going 
 This is a benifit because based on the data Health Services will know what medicine is in stock and what problems are being faced with some clinics or pharmacies. 
 
 ### Options Considered
-There are a couple of options 
+There are a couple of options such as NHS app/website, individual pharmacy websites, Google maps and Third party Pharmacy Apps.
+
+NHS app/website - This provides general information about health services, opening hours and service categories. They don't however give any details about location shortages of medicine. This means that patients still need to visit or phone multiple places to check if they have the medicine needed.
+
+Individual Pharmacy Websites - Pharmacies sometimes list their opening times and service information online, but they don't provide all of the locations in that city at once which means that users have to visit each website individualy which causes a time constraint. 
+
+Google Maps - Google Maps shows accurate Pharmacy locations and user reviews. It doesn't however show any information about medicine shortages, prices of products and stock levels.
+
+Third party Pharmacy apps - Some of these third party apps do compare the prices. However they may be outdated or incomplete, they may not include health centres and clinics and they may not cover local NHS services.  
 
 ### Expected Risks
 TODO: What are the main risks of this project?
