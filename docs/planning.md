@@ -38,23 +38,17 @@ Google Maps - Google Maps shows accurate Pharmacy locations and user reviews. It
 Third party Pharmacy apps - Some of these third party apps do compare the prices. However they may be outdated or incomplete, they may not include health centres and clinics and they may not cover local NHS services.  
 
 ### Expected Risks
-1. Inaccurate or outdated data 
-   Medicine stock or prices may not always be up to date.
+1. Inaccurate or outdated data - Medicine stock or prices may not always be up to date.
 
-2. Data integration issues
-   Different pharmacies and clinics may use different systems.
+2. Data integration issues - Different pharmacies and clinics may use different systems.
 
-3. Security and privacy concerns
-   User data must be protected.
+3. Security and privacy concerns - User data must be protected.
 
-4. Dependence on external partners
-   The system relies on pharmacies/health services to provide data.
+4. Dependence on external partners - The system relies on pharmacies/health services to provide data.
 
-5. Low user adoption
-   People may prefer existing tools like Google Maps or the NHS app.
+5. Low user adoption - People may prefer existing tools like Google Maps or the NHS app.
 
-6. Technical failures
-   App slow performance can affect usability.
+6. Technical failures - App slow performance can affect usability.
 
 ## Project Scope
 1. Using data from Bristol City Council about medical supplies.
@@ -67,7 +61,7 @@ Third party Pharmacy apps - Some of these third party apps do compare the prices
 
 5. Allowing public users to search for medicine and services.
 
-6.Collecting user feedback to help improve the system.
+6. Collecting user feedback to help improve the system.
 
 7. Bringing all this information together inside the Health Establishment system.
 
