@@ -19,9 +19,9 @@ As a patient, I want to search for pharmacies near my location and also see thei
 | **Actors** | Patient |
 | **Assumptions** | The patient can access the app. The system has up-to-date pharmacy information. The patient can enter their location |
 | **Steps** | The patient opens the 'Find a pharmacy' feature and enters their location. The system then searches for pharmacies nearby and displays a list. The patient scrolls through the results, comparing pharmacies based on distance, ratings and reviews before selecting one to view more details.|
-| **Variations** | TODO: OPTIONAL - Any variations in the steps of a use case |
-| **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
-| **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
+| **Variations** | If the patient denies location access, the system asks them to type in their location; If no pharmacies are found, the system shows a friendly message and suggests searching a wider area.|
+| **Non-functional** | Search results should load quickly; The interface should be easy for all users to navigate.|
+| **Issues** | keeping pharmacy information updated; Ensuring reviews are moderate and trustworthy.|
 
 
 TODO: Your Use-Case diagram should include all use-cases.
