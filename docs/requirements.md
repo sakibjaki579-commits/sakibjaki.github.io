@@ -17,8 +17,8 @@ As a patient, I want to search for pharmacies near my location and also see thei
 | -------------------------------------- | ------------------- |
 | **Description** | A patient wants to search for pharmacies close to where they are and see ratings and reviews for each one. This helps the patient choose a pharmacy that is both convenient and trustworthy.|
 | **Actors** | Patient |
-| **Assumptions** | 1. The patient can access the app. 2. The system has up-to-date pharmacy information. 3. The patient can enter their location |
-| **Steps** | TODO: Interactions between actors and system necessary to achieve goal |
+| **Assumptions** | The patient can access the app. The system has up-to-date pharmacy information. The patient can enter their location |
+| **Steps** | The patient opens the 'Find a pharmacy' feature and enters their location. The system then searches for pharmacies nearby and displays a list. The patient scrolls through the results, comparing pharmacies based on distance, ratings and reviews before selecting one to view more details.|
 | **Variations** | TODO: OPTIONAL - Any variations in the steps of a use case |
 | **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
 | **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
