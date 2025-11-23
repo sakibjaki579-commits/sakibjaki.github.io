@@ -35,9 +35,19 @@ TODO: create a list of functional requirements.
     Give each functional requirement a unique ID. e.g. FR1, FR2, ...
     Indicate which UC the requirement comes from.
 
+FR1. The system shall request permission to access the patient's current location. - UC1
+FR2. The system shall allow the patient to manually enter their location if GPS is denied. - UC1
+FR3. The system shall search for pharmacies within the patient's area using the provided location. - UC1
+FR4. The system shall display each pharmacies name, distance, rating and reviews. - UC1
+
 
 ### Non-Functional Requirements
 TODO: Consider one or more [quality attributes](https://en.wikipedia.org/wiki/ISO/IEC_9126) to suggest a small number of non-functional requirements.
 Give each non-functional requirement a unique ID. e.g. NFR1, NFR2, ...
 
 Indicate which UC the requirement comes from.
+
+NFR1. The system shall load pharmacy search result quickly. - UC1
+NFR2. The system shall provide a simple and easy to read interface for every user. - UC1
+NFR3. The system shall ensure the pharmacy data are up to date. - UC1
+NFR4. The system shall be able to handle large number of users without malfunctioning. - UC1
