@@ -35,10 +35,10 @@ TODO: create a list of functional requirements.
     Give each functional requirement a unique ID. e.g. FR1, FR2, ...
     Indicate which UC the requirement comes from.
 
-|**FR1**| The system shall request permission to access the patient's current location. - UC1 |
-|**FR2**| The system shall allow the patient to manually enter their location if GPS is denied. - UC1 |
-|**FR3**| The system shall search for pharmacies within the patient's area using the provided location. - UC1 |
-|**FR4**| The system shall display each pharmacies name, distance, rating and reviews. - UC1 |
+|**FR1** The system shall request permission to access the patient's current location. - UC1 |
+|**FR2** The system shall allow the patient to manually enter their location if GPS is denied. - UC1 |
+|**FR3** The system shall search for pharmacies within the patient's area using the provided location. - UC1 |
+|**FR4** The system shall display each pharmacies name, distance, rating and reviews. - UC1 |
 
 
 ### Non-Functional Requirements
