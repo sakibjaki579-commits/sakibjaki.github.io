@@ -1,30 +1,13 @@
 # Project Proposal
 
 ## Business Case
+This project will propse the development of a web based application that will use Open Data API to help users locate nearby pharmacies. The application will provide a simple user interface that will display pharmacy details like names and the type of services etc. Our goal is to make a system that will save users time and improve access to healthcare services. 
 
 ### Problem statement
-The problem is about medicine shortage and variations in availability along with different prices across Health Establishments. Patients are finding it difficult to find specific medicines that are in stock or is too expensive. This leads to delays in treatments and pressure on healthcare services. There is currently no type of app/tool that lets people check certian medical services or what medicine are provided by health services. 
+The problem is having access to pharmacy services in Bristol as it is challenging for patients and even residents who need to quickly locate nearby pharmacies. The existing tools like Google maps and the NHS website do not provide simple filtering options using open data. This makes users needing to check multiple sources to find accurate information. At the current moment there isn't an easy to use platform thta displays pharmacy locations from the Bristol Open Data portal.
 
 ### Business benefits
-1. It will improve access to halthcare information
 
-This means that it will show the user where each Health Establishments are located and the services that they provide are. Which will help people to go to the right places.
-
-2. Pressure will be reduced on Healthcare Services
-
-When people know which Health Services they need to go to or what medicine they need, this will reduce long queues and phone queries etc.
-
-3. Better planning for resources
-
-This is a benifit becasue Health Services can use data to understand which areas have high demand, which facilities have medicine shortages and support etc.
-
-4. It will increase trustworthiness
-
-This means that based on the accurate data users will be comfortable with going to certain Health Serivces. 
-
-5. Cost savings
-
-This is a benifit because based on the data Health Services will know what medicine is in stock and what problems are being faced with some clinics or pharmacies. 
 
 ### Options Considered
 There are a couple of options such as NHS app/website, individual pharmacy websites, Google maps and Third party Pharmacy Apps.
