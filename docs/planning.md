@@ -7,18 +7,19 @@ This project will propse the development of a web based application that will us
 The problem is having access to pharmacy services in Bristol as it is challenging for patients and even residents who need to quickly locate nearby pharmacies. The existing tools like Google maps and the NHS website do not provide simple filtering options using open data. This makes users needing to check multiple sources to find accurate information. At the current moment there isn't an easy to use platform thta displays pharmacy locations from the Bristol Open Data portal.
 
 ### Business benefits
-
+1. improved access to services - Users can quickly locate nearby pharmacies without searching multiple websites.
+2. Better decision making - People can compare locations and are able to choose the nearest pharmacy.
+3. Reducing time and confusion - Being able to find the local pharmacy will reduce queues amd phone queries that aren't needed.
+4. Supports public health faster - In an emergancy there is faster access to pharmacy services.
+5. Efficient use of open data - Utilises Bristol Open Data portal effectively. 
 
 ### Options Considered
-There are a couple of options such as NHS app/website, individual pharmacy websites, Google maps and Third party Pharmacy Apps.
+1. NHS website - This provides general healthcare information but does not offer detailed city specific filtering for pharmacies using open data.
+2. Google Maps - This shows pharmacy locations but it lacks structured open data integregation and doesn't guarentee accuraccy and consistency across all services.
+3. Individual Pharmacy websites - These don't allow users to compare multiple pharmacies at once.
+4. Third party apps - Third party apps can list pharmaies but are often outdated.
 
-NHS app/website - This provides general information about health services, opening hours and service categories. They don't however give any details about location shortages of medicine. This means that patients still need to visit or phone multiple places to check if they have the medicine needed.
 
-Individual Pharmacy Websites - Pharmacies sometimes list their opening times and service information online, but they don't provide all of the locations in that city at once which means that users have to visit each website individualy which causes a time constraint. 
-
-Google Maps - Google Maps shows accurate Pharmacy locations and user reviews. It doesn't however show any information about medicine shortages, prices of products and stock levels.
-
-Third party Pharmacy apps - Some of these third party apps do compare the prices. However they may be outdated or incomplete, they may not include health centres and clinics and they may not cover local NHS services.  
 
 ### Expected Risks
 1. Inaccurate or outdated data - Medicine stock or prices may not always be up to date.
