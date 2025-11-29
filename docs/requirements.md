@@ -30,8 +30,6 @@ TODO: Your Use-Case diagram should include all use-cases.
 
 ## Software Requirements Specification
 ### Functional requirements
-Each functional requirement will describe what the system must do. 
-
 |**FR1** The system shall request permission to access the patient's current location. - UC1 |
 |**FR2** The system shall allow the patient to manually enter their location if GPS is denied. - UC1 |
 |**FR3** The system shall search for pharmacies within the patient's area using the provided location. - UC1 |
@@ -39,9 +37,6 @@ Each functional requirement will describe what the system must do.
 
 
 ### Non-Functional Requirements
-TODO: Consider one or more [quality attributes](https://en.wikipedia.org/wiki/ISO/IEC_9126) to suggest a small number of non-functional requirements.
-Give each non-functional requirement a unique ID. e.g. NFR1, NFR2, ...
-
 Indicate which UC the requirement comes from.
 
 |**Efficiency**| NFR1. The system shall load pharmacy search result quickly. - UC1 |
