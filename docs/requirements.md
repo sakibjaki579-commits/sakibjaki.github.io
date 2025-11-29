@@ -26,7 +26,8 @@ As a patient, I want to search for pharmacies near my location and also see thei
 
 TODO: Your Use-Case diagram should include all use-cases.
 
-![Insert your Use-Case Diagram Here](images/use-case.png)
+<img width="1536" height="1024" alt="1000183370" src="https://github.com/user-attachments/assets/b5d79b6f-9962-4fe7-a8bc-edd8cebe0aba" />
+
 
 ## Software Requirements Specification
 ### Functional requirements
