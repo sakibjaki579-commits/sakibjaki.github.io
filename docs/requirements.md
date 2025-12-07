@@ -26,7 +26,8 @@ As a patient, I want to search for pharmacies near my location and also see thei
 
 TODO: Your Use-Case diagram should include all use-cases.
 
-<img width="2048" height="1109" alt="image" src="https://github.com/user-attachments/assets/652d9d5a-ef84-4643-ae1e-9d5babc065c5" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/32055927-c07b-4667-b4b1-d57b32cb1e84" />
+
 
 
 
