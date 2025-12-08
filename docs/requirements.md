@@ -23,10 +23,28 @@ As a patient, I want to search for pharmacies near my location and also see thei
 | **Non-functional** | Search results should load quickly; The interface should be easy for all users to navigate.|
 | **Issues** | keeping pharmacy information updated; Ensuring reviews are moderate and trustworthy.|
 
-
-TODO: Your Use-Case diagram should include all use-cases.
-
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/32055927-c07b-4667-b4b1-d57b32cb1e84" />
+
+| UC2 | View pharmacy details|
+| -------------------------------------- | ------------------- |
+| **Description** | A patient wants to view detailed for pharmacies about a selected pharmacy, such as its address, distance, ratings and reviews. This is here because it hepls users decide whether it meets their need.|
+| **Actors** | Patient |
+| **Assumptions** | The patient can access the app. The pharmacy data is available from the Open Data dataset. The patient has already searched for nearby pharmacies. |
+| **Steps** | The patient opens the 'Find a pharmacy' feature and enters their location. The system then searches for pharmacies nearby and displays a list. The system displays detailed information about the selected pharmacy, including address, distance ratings and reviews.|
+| **Variations** | If detailed information is unavailable, the system will display a message showing limited data. The patient can return to the results list at any time.|
+| **Non-functional** | Pharmacy details should load quickly. Information should be clearly laid out and easy to read for all types of users.|
+| **Issues** | keeping pharmacy information updated; Handling missing or incomplete data from the dataset|
+
+| UC3 | Filter pharmacies by location/criteria|
+| -------------------------------------- | ------------------- |
+| **Description** | A patient wants to filter the list of nearby pharmacies based on specific criteria such as distance or location in order to narrow down the results and find the most suitable pharmacy much more efficiently.|
+| **Actors** | Patient |
+| **Assumptions** | The patient can access the app. A list of nearby pharmacies has already been displayed. Pharmacy data supports filtering by location or distance. |
+| **Steps** | The patient searches for nearby pharmacies. The systm will display a lkist of available pharmacies. The patient selects one or more filter options. The system then searches for pharmacies nearby and displays a list and updates it depending on the criteria.|
+| **Variations** | If no pharmacies match the selected filters, the system displays a message suggesting the user broaden the search criteria. The patient can reset the filters to view all results again.|
+| **Non-functional** | Filtering should be applied instantly without any delays. The interface should clearly show which filters are currently active.|
+| **Issues** | Ensuring that filter options match the actual data available from the dataset. Being able to handle situations where filtered results are very limited or empty.|
+
 
 
 
