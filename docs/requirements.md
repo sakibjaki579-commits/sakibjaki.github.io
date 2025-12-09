@@ -62,23 +62,23 @@ As a patient, I want to search for pharmacies near my location and also see thei
 
 ## Software Requirements Specification
 ### Functional requirements
-|**FR1** The system shall request permission to access the patient's current location. - UC1 |
-|**FR2** The system shall allow the patient to manually enter their location if GPS is denied. - UC1 |
-|**FR3** The system shall search for pharmacies within the patient's area using the provided location. - UC1 |
-|**FR4** The system shall display each pharmacies name, distance, rating and reviews. - UC1 |
-|**FR5** The system shall allow the patient to save/remove a selected pharmacy to their favourites list. - UC4 |
-|**FR6** The system shall prevent duplicate entries by checking if the pharmacy is already saved. - UC4 |
-|**FR7** The system shall confirm to the patient that the pharmacy has been successfully saved.	- UC4 |
-|**FR8** The system shall allow the patient to view a list of their saved favourite pharmacies. - UC4 |
+1. |**FR1** The system shall request permission to access the patient's current location. - UC1 |
+2. |**FR2** The system shall allow the patient to manually enter their location if GPS is denied. - UC1 |
+3. |**FR3** The system shall search for pharmacies within the patient's area using the provided location. - UC1 |
+4. |**FR4** The system shall display each pharmacies name, distance, rating and reviews. - UC1 |
+5. |**FR5** The system shall allow the patient to save/remove a selected pharmacy to their favourites list. - UC4 |
+6. |**FR6** The system shall prevent duplicate entries by checking if the pharmacy is already saved. - UC4 |
+7. |**FR7** The system shall confirm to the patient that the pharmacy has been successfully saved.	- UC4 |
+8. |**FR8** The system shall allow the patient to view a list of their saved favourite pharmacies. - UC4 |
 
 ### Non-Functional Requirements
 Indicate which UC the requirement comes from.
 
-|**Efficiency**| NFR1. The system shall load pharmacy search result quickly. - UC1 |
-|**Usability**| NFR2. The system shall provide a simple and easy to read interface for every user. - UC1 |
-|**Reliability**| NFR3. The system shall ensure the pharmacy data are up to date. - UC1 |
-|**Functionality**| NFR4. The system shall be able to handle large number of users without malfunctioning. - UC1 |
-|**Performance**| NFR5. The system shall save a pharmacy to the favourites list within 2 seconds. - UC4 |
-|**Usability**| NFR6. The system shall present the “Save to favourites” option clearly so that users can understand it without instruction.  - UC4 |
-|**Reliability**| NFR7. The system shall ensure the favourites list remains consistent even if the app is closed or restarted. - UC4 |
-|**Security**| NFR8. The system shall store the favourites list securely and associate it only with the patient’s authenticated account. - UC4 |
+1. |**Efficiency**| NFR1. The system shall load pharmacy search result quickly. - UC1 |
+2. |**Usability**| NFR2. The system shall provide a simple and easy to read interface for every user. - UC1 |
+3. |**Reliability**| NFR3. The system shall ensure the pharmacy data are up to date. - UC1 |
+4. |**Functionality**| NFR4. The system shall be able to handle large number of users without malfunctioning. - UC1 |
+5. |**Performance**| NFR5. The system shall save a pharmacy to the favourites list within 2 seconds. - UC4 |
+6. |**Usability**| NFR6. The system shall present the “Save to favourites” option clearly so that users can understand it without instruction.  - UC4 |
+7. |**Reliability**| NFR7. The system shall ensure the favourites list remains consistent even if the app is closed or restarted. - UC4 |
+8. |**Security**| NFR8. The system shall store the favourites list securely and associate it only with the patient’s authenticated account. - UC4 |
