@@ -3,7 +3,7 @@
 ## User Needs
 
 ### User stories
-As a patient, I want to search for pharmacies near my location and also see their ratings and reviews, so I can quickly find one that meets my needs.
+A user opens the Pharmacy Finder System to locate a place to buy medicine. The app automatically detects the user’s current location and displays a list of nearby pharmacies. The user selects one to view its full details, including address, distance, opening hours, and customer ratings. To refine the search, the user applies filters such as distance and minimum rating, and the system updates the results instantly. After reviewing the filtered options, the user chooses a preferred pharmacy and saves it to the favourites list for quick access later.
 
 ### Actors
 1. Patient 
