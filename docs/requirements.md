@@ -96,4 +96,5 @@ Indicate which UC the requirement comes from.
 12. **Accessability** | NFR12. The interface shall be usable by users with different accessibility needs. = UC2 |
 13. **Performance**  | NFR13. Filters shall be applied instantly without noticable delay. = UC3 |
 14. **Usability**   | MFR14. Active filters shall be clearly visible to the patient. - UC3 |
-15. ** 
+15. **Reliability** | NFR15. Filtering results shall correctly reflect the available dataset. - UC3 |
+16. **Scalability** | NFR16. The system shall handle filtering efficiently even with large datasets. - UC3 |
