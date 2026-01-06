@@ -70,6 +70,14 @@ A user opens the Pharmacy Finder System to locate a place to buy medicine. The a
 6. **FR6** | The system shall prevent duplicate entries by checking if the pharmacy is already saved. - UC4 |
 7. **FR7** | The system shall confirm to the patient that the pharmacy has been successfully saved.	- UC4 |
 8. **FR8** | The system shall allow the patient to view a list of their saved favourite pharmacies. - UC4 |
+9. **FR9** | The system shall allow the patient to select a pharmacy from the search results. - UC2 |
+10. **FR10** | The system shall display detailed information about the selected pharmacy. - UC2 |
+11. **FR11** | The system shall allow showing the pharmacy's address and distance from the patient. - UC2 |
+12. **FR12** | The system shall display pharmacy ratings and user reviews. - UC2 |
+13. **FR13** | The system shall allow the patient to filter nearby pharmacies by distance or location. = UC3 |
+14. **FR14** | The system shall update the pharmacy list based on the selected filter criteria. - UC3 |
+15. **FR15** | The system shall allow the patient to apply one or more filters at the same time. - UC3 |
+16. **FR16** | The system shall allow the patient to reset filters to view the results again. = UC3 |
 
 ### Non-Functional Requirements
 Indicate which UC the requirement comes from.
@@ -82,3 +90,10 @@ Indicate which UC the requirement comes from.
 6. **Usability**    | NFR6. The system shall present the “Save to favourites” option clearly so that users can understand it without instruction.  - UC4 |
 7. **Reliability**  | NFR7. The system shall ensure the favourites list remains consistent even if the app is closed or restarted. - UC4 |
 8. **Security**     | NFR8. The system shall store the favourites list securely and associate it only with the patient’s authenticated account. - UC4 |
+9. **Performance**  | NFR9. Pharmacy details shall load quickly after selection. = UC2 |
+10. **Usability**   | NFR10. Pharmacy information shall be easy to read and clearly laid out. - UC2 |
+11. **Reliability** | NFR11. Displayed pharmacy data will be accurate and up to date. = UC2 |
+12. **Accessability** | NFR12. The interface shall be usable by users with different accessibility needs. = UC2 |
+13. **Performance**  | NFR13. Filters shall be applied instantly without noticable delay. = UC3 |
+14. **Usability**   | MFR14. Active filters shall be clearly visible to the patient. - UC3 |
+15. ** 
