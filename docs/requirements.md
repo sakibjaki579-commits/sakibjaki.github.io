@@ -62,8 +62,7 @@ A user opens the Pharmacy Finder System to locate a place to buy medicine. The a
 | **Non-functional** | Response for saving/removing a favourite should be fast and feel instantaneous.|
 | **Issues** |Keeping favourites synced across devices.|
 
-
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/32055927-c07b-4667-b4b1-d57b32cb1e84" />
+<img width="1536" height="1024" alt="1000184605" src="https://github.com/user-attachments/assets/df4dd318-6e30-48da-92f3-629d9f2458bd" />
 
 
 
