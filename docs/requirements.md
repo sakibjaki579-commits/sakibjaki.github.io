@@ -23,6 +23,9 @@ A user opens the Pharmacy Finder System to locate a place to buy medicine. The a
 | **Non-functional** | Search results should load quickly; The interface should be easy for all users to navigate.|
 | **Issues** | keeping pharmacy information updated; Ensuring reviews are moderate and trustworthy.|
 
+<img width="1536" height="1024" alt="1000184602" src="https://github.com/user-attachments/assets/352b044d-aca7-41df-9dc4-df91ffc6aae0" />
+
+
 | UC2 | View pharmacy details|
 | -------------------------------------- | ------------------- |
 | **Description** | A patient wants to view detailed for pharmacies about a selected pharmacy, such as its address, distance, ratings and reviews. This is here because it hepls users decide whether it meets their need.|
@@ -33,6 +36,9 @@ A user opens the Pharmacy Finder System to locate a place to buy medicine. The a
 | **Non-functional** | Pharmacy details should load quickly. Information should be clearly laid out and easy to read for all types of users.|
 | **Issues** | keeping pharmacy information updated; Handling missing or incomplete data from the dataset|
 
+<img width="1536" height="1024" alt="1000184603" src="https://github.com/user-attachments/assets/e26bb7b0-d5c4-45cf-8de7-9a23542b1bfa" />
+
+
 | UC3 | Filter pharmacies by location/criteria|
 | -------------------------------------- | ------------------- |
 | **Description** | A patient wants to filter the list of nearby pharmacies based on specific criteria such as distance or location in order to narrow down the results and find the most suitable pharmacy much more efficiently.|
@@ -42,6 +48,9 @@ A user opens the Pharmacy Finder System to locate a place to buy medicine. The a
 | **Variations** | If no pharmacies match the selected filters, the system displays a message suggesting the user broaden the search criteria. The patient can reset the filters to view all results again.|
 | **Non-functional** | Filtering should be applied instantly without any delays. The interface should clearly show which filters are currently active.|
 | **Issues** | Ensuring that filter options match the actual data available from the dataset. Being able to handle situations where filtered results are very limited or empty.|
+
+<img width="1536" height="1024" alt="1000184604" src="https://github.com/user-attachments/assets/b040c341-7f85-43f3-b58d-8125a7651fd1" />
+
 
 | UC4 | Save pharmacy to favourites|
 | -------------------------------------- | ------------------- |
