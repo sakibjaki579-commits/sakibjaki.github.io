@@ -4,7 +4,7 @@
 This project will propse the development of a web based application that will use Open Data API to help users locate nearby pharmacies. The application will provide a simple user interface that will display pharmacy details like names and the type of services etc. Our goal is to make a system that will save users time and improve access to healthcare services. 
 
 ### Problem statement
-The problem is having access to pharmacy services in Bristol as it is challenging for patients and even residents who need to quickly locate nearby pharmacies. The existing tools like Google maps and the NHS website do not provide simple filtering options using open data. This makes users needing to check multiple sources to find accurate information. At the current moment there isn't an easy to use platform thta displays pharmacy locations from the Bristol Open Data portal.
+The problem is having access to pharmacy services in Bristol as it is challenging for patients and even residents who need to quickly locate nearby pharmacies. The existing tools like Google maps and the NHS website do not provide simple filtering options using open data. This makes users needing to check multiple sources to find accurate information. At the current moment there isn't an easy to use platform that displays pharmacy locations from the Bristol Open Data portal.
 
 ### Business benefits
 1. improved access to services - Users can quickly locate nearby pharmacies without searching multiple websites.
