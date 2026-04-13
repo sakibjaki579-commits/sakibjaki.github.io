@@ -64,6 +64,7 @@ A user opens the Pharmacy Finder System to locate a place to buy medicine. The a
 
 <img width="1536" height="1024" alt="1000184605" src="https://github.com/user-attachments/assets/df4dd318-6e30-48da-92f3-629d9f2458bd" />
 
+### Use Case Diagram
 <img width="1536" height="1024" alt="1000184605" src="https://github.com/sakibjaki579-commits/sakibjaki.github.io/blob/main/docs/images/usecasesmerged.png" />
 
 
