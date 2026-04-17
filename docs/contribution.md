@@ -1,16 +1,16 @@
 # TODO: Enter the contributions of each team member
 
 1. Sakib Hasan Jaki (25047540)
-# Planning
+### Planning
 - Business case
 - Problem statement
 - Cotext diagram
 
-## Requirement
+### Requirement
 - User Story
 - Actors
 - Use cases 1 & 4
 - Merged use case diagram
 
-## Design
+### Design
 - Designed on whimsical
