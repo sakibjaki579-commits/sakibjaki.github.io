@@ -19,4 +19,6 @@
 
 2. Raihan Hussain (24039436)
 ### Planning
+- Business benifits
+- Project Scope
 - 
