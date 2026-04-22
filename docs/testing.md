@@ -1,15 +1,22 @@
 # Testing
 
-## Test Plan
+# Pharmacy Finder Test Plan
 
-| Test case ID | TC1 | 
-| -------------------------------------- | ------------------- |
-| **Test Description** | A patient wants to search for pharmacies close to where they are and see ratings and reviews for each one. This helps the patient choose a pharmacy that is both convenient and trustworthy.|
-| **Steps** | Patient |
-| **Expected Results** | The patient can access the app. The system has up-to-date pharmacy information. The patient can enter their location |
-| **Actual Results** | The patient opens the 'Find a pharmacy' feature and enters their location. The system then searches for pharmacies nearby and displays a list. The patient scrolls through the results, comparing pharmacies based on distance, ratings and reviews before selecting one to view more details.|
-| **Fail/Pass** | If the patient denies location access, the system asks them to type in their location; If no pharmacies are found, the system shows a friendly message and suggests searching a wider area.|
+## Test Cases
 
+| Test Case ID | Test Description | Steps | Expected Result | Actual Result | Pass/Fail |
+|-------------|-----------------|------|----------------|--------------|-----------|
+| TC1 | Search using valid postcode | Enter valid postcode and click search | List pharmacy nearby within 2 miles | Does as expected | Pass |
+| TC2 | Clicking search button with nothing in box | Don’t enter anything | Should display a message saying to enter a postcode | Does as expected | Pass |
+| TC3 | Adding favourites should display on the favourites page | Click on 'Add to favourites' | Adds the pharmacy to the favourites page | Does as expected | Pass |
+| TC4 | Show miles within 2 miles | Search using valid postcode | Should display miles | Does as expected | Pass |
+| TC5 | Map displays on Google | Click on 'View on Google Maps' | Should take you to Google Maps | Does as expected | Pass |
+| TC6 | Shows reviews with stars | Search using valid postcode | Should display reviews with stars | Does as expected | Pass |
+| TC7 | Shows on phone | Use phone to access website | Should display website correctly on phone | Does as expected | Pass |
+| TC8 | Clear all favourites | Click 'Clear all favourites' | Should remove all favourites | Does as expected | Pass |
+| TC9 | Switch to favourites page | Click on favourites page | Should take you to favourites page | Does as expected | Pass |
+| TC10 | Display error | Enter invalid postcode | Should display error message | Doesn't work | Fail |
+| TC11 | Fast display | Enter a valid postcode | Should search pharmacies quickly | Does as expected | Pass |
 
 
 
