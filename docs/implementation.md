@@ -13,7 +13,9 @@ Files:
 index.html = Main home page of the website to search for pharmacies
 
 Favourite.html = Favourite page for adding favourite pharmacies
+
 style.css = Controls the layout, font and colour of the website
+
 script.js = Handles search functionality and user interactions
 
 <img width="1391" height="676" alt="image" src="https://github.com/user-attachments/assets/0f169edf-9f36-4a67-93ad-3627897e59b2" />
