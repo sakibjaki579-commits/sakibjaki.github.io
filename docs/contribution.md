@@ -24,5 +24,10 @@
 - Options considered
 - Expected risks
 
-### Requirement
+### Implementation
+- HTML
+- Javascript
+- CSS
+
+### Testing
 - 
