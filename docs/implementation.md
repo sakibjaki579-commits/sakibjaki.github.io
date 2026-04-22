@@ -11,6 +11,7 @@ The Pharmacy Finder website is organised into folders and files that separate di
 Files:
 
 index.html = Main home page of the website to search for pharmacies
+
 Favourite.html = Favourite page for adding favourite pharmacies
 style.css = Controls the layout, font and colour of the website
 script.js = Handles search functionality and user interactions
