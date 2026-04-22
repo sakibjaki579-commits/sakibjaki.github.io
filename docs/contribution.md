@@ -10,6 +10,8 @@
 - User Story
 - Actors
 - Use cases 1 & 4
+- Functional requirements
+- Non-functional requirements
 - Merged use case diagram
 
 ### Design
