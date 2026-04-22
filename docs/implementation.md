@@ -11,8 +11,8 @@ The Pharmacy Finder website is organised into folders and files that separate di
 ## Software Architecture
 The Pharmacy Finder system is built using a web-based architecture consisting of several major components that work together to deliver the service to users. Each component has a specific role in processing user input, retrieving pharmacy data, and displaying results.
 
+<img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/2182dbc9-6238-4371-9418-c7079766206d" />
 
-![Insert your component Diagram here](images/component.png)
 
 ## Bristol Open Data API
 TODO: Document each query to Bristol Open Data
