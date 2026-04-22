@@ -16,3 +16,7 @@
 
 ### Design
 - Designed on whimsical
+
+2. Raihan Hussain (24039436)
+### Planning
+- 
