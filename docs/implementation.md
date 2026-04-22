@@ -8,6 +8,16 @@ The system is designed to help users quickly locate pharmacies in their local ar
 ## Project Structure
 The Pharmacy Finder website is organised into folders and files that separate different parts of the system such as the user interface, styling, and functionality. This structure makes the system easier to maintain, update, and debug.
 
+Files:
+
+index.html = Main home page of the website to search for pharmacies
+Favourite.html = Favourite page for adding favourite pharmacies
+style.css = Controls the layout, font and colour of the website
+script.js = Handles search functionality and user interactions
+
+<img width="1391" height="676" alt="image" src="https://github.com/user-attachments/assets/0f169edf-9f36-4a67-93ad-3627897e59b2" />
+
+
 ## Software Architecture
 The Pharmacy Finder system is built using a web-based architecture consisting of several major components that work together to deliver the service to users. Each component has a specific role in processing user input, retrieving pharmacy data, and displaying results.
 
