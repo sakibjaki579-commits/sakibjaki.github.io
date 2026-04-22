@@ -21,4 +21,8 @@
 ### Planning
 - Business benifits
 - Project Scope
+- Options considered
+- Expected risks
+
+### Requirement
 - 
