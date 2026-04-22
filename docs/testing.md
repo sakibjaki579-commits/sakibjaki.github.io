@@ -2,7 +2,7 @@
 
 ## Test Plan
 
-| Test case ID | TC1 | TC2 | TC3
+| Test case ID | TC1 | 
 | -------------------------------------- | ------------------- |
 | **Test Description** | A patient wants to search for pharmacies close to where they are and see ratings and reviews for each one. This helps the patient choose a pharmacy that is both convenient and trustworthy.|
 | **Steps** | Patient |
