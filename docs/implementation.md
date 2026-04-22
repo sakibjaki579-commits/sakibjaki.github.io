@@ -1,7 +1,9 @@
 # Implementation
 
 ## Introduction
-TODO: Describe the system implemented (Describe the dataset. Are there any known issues? Describe any configuration data).
+The system implemented is a web-based Pharmacy Finder application that allows users to search for nearby pharmacies using their postcode. The website provides a simple interface where users enter a postcode and the system returns pharmacies within a specified distance radius.
+
+The system is designed to help users quickly locate pharmacies in their local area. The search feature is optimized for speed and convenience, allowing users to find pharmacies within a 2-mile radius of their entered postcode.
 
 ## Project Structure
 TODO: Provide an outline of the project folder structure and the role of each file within it.
