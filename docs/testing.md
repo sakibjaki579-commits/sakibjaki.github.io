@@ -2,7 +2,7 @@
 
 ## Test Plan
 
-Test Case ID	| Test Description	| Steps	| Expected Results |	Actual Result	| Pass/Fail
+| Test Case ID	| Test Description	| Steps	| Expected Results |	Actual Result	| Pass/Fail |
 TC1	Search using Valid Postcode	Enter Valid Postcode and click search	List pharmacy nearby 2 miles 	Does as expected	Pass
 TC2 	Clicking search button with nothing in box	Don’t enter anything 	Should display a message saying to enter a postcode	Does as expected	Pass
 TC3 	Adding favourites should display on the favourites page	Click on ‘add to favourites’	Adds the pharmacy to the favourites page	Does as expected	Pass
