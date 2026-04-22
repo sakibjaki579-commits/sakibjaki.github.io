@@ -6,11 +6,11 @@ The system implemented is a web-based Pharmacy Finder application that allows us
 The system is designed to help users quickly locate pharmacies in their local area. The search feature is optimized for speed and convenience, allowing users to find pharmacies within a 2-mile radius of their entered postcode.
 
 ## Project Structure
-TODO: Provide an outline of the project folder structure and the role of each file within it.
-provide a table listing the number of jslint warnings/reports for each module.
+The Pharmacy Finder website is organised into folders and files that separate different parts of the system such as the user interface, styling, and functionality. This structure makes the system easier to maintain, update, and debug.
 
 ## Software Architecture
-TODO: Describe the major components of your architecture. Are any particular architectural styles being used?
+The Pharmacy Finder system is built using a web-based architecture consisting of several major components that work together to deliver the service to users. Each component has a specific role in processing user input, retrieving pharmacy data, and displaying results.
+
 
 ![Insert your component Diagram here](images/component.png)
 
