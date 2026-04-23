@@ -20,7 +20,10 @@ script.js = Handles search functionality and user interactions
 
 Places - Searching for postcodes related
 
-<img width="1387" height="706" alt="image" src="https://github.com/user-attachments/assets/41656546-d9a3-4c71-b6ad-2da7e6716471" />
+Readme.txt - Further instructions for running on local
+
+<img width="1402" height="736" alt="image" src="https://github.com/user-attachments/assets/d25ae9f7-9216-4942-9b4f-35085151c0e2" />
+
 
 
 
