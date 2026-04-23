@@ -18,7 +18,10 @@ style.css = Controls the layout, font and colour of the website
 
 script.js = Handles search functionality and user interactions
 
-<img width="1391" height="676" alt="image" src="https://github.com/user-attachments/assets/0f169edf-9f36-4a67-93ad-3627897e59b2" />
+Places - Searching for postcodes related
+
+<img width="1387" height="706" alt="image" src="https://github.com/user-attachments/assets/41656546-d9a3-4c71-b6ad-2da7e6716471" />
+
 
 
 ## Software Architecture
