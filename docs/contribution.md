@@ -25,9 +25,7 @@
 - Expected risks
 
 ### Implementation
-- HTML
-- Javascript
-- CSS
+- 
 
 ### Testing
-- 
+- all
