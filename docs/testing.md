@@ -15,9 +15,9 @@
 | TC7 | Shows on phone | Use phone to access website | Should display website correctly on phone | Does as expected | Pass |
 | TC8 | Clear all favourites | Click 'Clear all favourites' | Should remove all favourites | Does as expected | Pass |
 | TC9 | Switch to favourites page | Click on favourites page | Should take you to favourites page | Does as expected | Pass |
-| TC10 | Display error | Enter invalid postcode | Should display error message | Doesn't work | Fail |
+| TC10 | Display error | Enter invalid postcode | Should display error message | Does as expected | Pass |
 | TC11 | Fast display | Enter a valid postcode | Should search pharmacies quickly | Does as expected | Pass |
-
+| TC12 | Filtering works | Click on a filter | Should filter pharmacies based on what filter you clicked | Does as expected | Pass |
 
 
 
