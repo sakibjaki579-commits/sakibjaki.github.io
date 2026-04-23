@@ -7,7 +7,7 @@
 | Test Case ID | Test Description | Steps | Expected Result | Actual Result | Pass/Fail |
 |-------------|-----------------|------|----------------|--------------|-----------|
 | TC1 | Search using valid postcode | Enter valid postcode and click search | List pharmacy nearby within 2 miles | Does as expected | Pass |
-| TC2 | Clicking search button with nothing in box | Don’t enter anything | Should display a message saying to enter a postcode | Does as expected | Pass |
+| TC2 | Clicking search button with nothing in box | Don’t enter anything | Should display a message saying to enter a UK postcode | Does as expected | Pass |
 | TC3 | Adding favourites should display on the favourites page | Click on 'Add to favourites' | Adds the pharmacy to the favourites page | Does as expected | Pass |
 | TC4 | Show miles within 2 miles | Search using valid postcode | Should display miles | Does as expected | Pass |
 | TC5 | Map displays on Google | Click on 'View on Google Maps' | Should take you to Google Maps | Does as expected | Pass |
