@@ -8,3 +8,4 @@ TODO: Brief outline of your project describing the dataset and a link to it.
 4. [Implementation](docs/implementation.md)
 5. [Testing](docs/testing.md)
 
+Further instruction provided to run on local
