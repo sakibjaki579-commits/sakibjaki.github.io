@@ -40,6 +40,10 @@ UC1 - Entering a valid postcode and filtering it by nearest
 UC2 - Viweing pharmacy details via Google maps and making sure that reviews and ratings are displayed along within 2 mile radius. Doesn't notify if unavalable.
 <img width="1868" height="1003" alt="image" src="https://github.com/user-attachments/assets/8ec50455-0ed7-45d1-bb5e-b8de4014cf41" />
 
-UC3 - 
+UC3 - Filtering works but becasue the postcode is in a 2 mile radius filtering wasn't needed for distance.
+<img width="1872" height="992" alt="image" src="https://github.com/user-attachments/assets/4b6fa273-f87b-450b-99e3-e36536e070b1" />
+
+UC4 - 
+
 
 
