@@ -43,7 +43,9 @@ UC2 - Viweing pharmacy details via Google maps and making sure that reviews and 
 UC3 - Filtering works but becasue the postcode is in a 2 mile radius filtering wasn't needed for distance.
 <img width="1872" height="992" alt="image" src="https://github.com/user-attachments/assets/4b6fa273-f87b-450b-99e3-e36536e070b1" />
 
-UC4 - 
+UC4 - Favourites work when even reloading the page and it is saved.
+<img width="1907" height="777" alt="image" src="https://github.com/user-attachments/assets/e1ec84cf-dc3d-43aa-9990-92e90b7bd025" />
+
 
 
 
