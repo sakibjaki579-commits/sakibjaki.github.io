@@ -37,5 +37,9 @@ TODO: Repeat as necessary
 UC1 - Entering a valid postcode and filtering it by nearest
 <img width="1887" height="992" alt="image" src="https://github.com/user-attachments/assets/9a27ae79-91a5-4574-a478-5dd9467c2cdb" />
 
+UC2 - Viweing pharmacy details via Google maps and making sure that reviews and ratings are displayed along within 2 mile radius. Doesn't notify if unavalable.
+<img width="1868" height="1003" alt="image" src="https://github.com/user-attachments/assets/8ec50455-0ed7-45d1-bb5e-b8de4014cf41" />
+
+UC3 - 
 
 
