@@ -34,4 +34,8 @@ TODO: Document each query to Bristol Open Data
 TODO: Repeat as necessary
 
 # User guide
-TODO: Explain how each use-case works by providing step-by-step screenshots for each use-case. This should be based on a tested scenario.
+UC1 - Entering a valid postcode and filtering it by nearest
+<img width="1887" height="992" alt="image" src="https://github.com/user-attachments/assets/9a27ae79-91a5-4574-a478-5dd9467c2cdb" />
+
+
+
